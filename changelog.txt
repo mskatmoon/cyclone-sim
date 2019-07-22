@@ -1,5 +1,8 @@
 About: A p5.js tropical cyclone simulation game
 
+v20190722c:
+    + Hyper mode SST's are much higher at peak and much lower at anti-peak then they were before
+    + Wild mode anomalies are now amplified by 8 instead of 5
 v20190722b:
     + Added Northern Indian Ocean, Australian Region, South Pacific, and South-West Indian Ocean map modes
     * Fixed some image-compression-related problems with the Eastern Pacific and Western Pacific maps
