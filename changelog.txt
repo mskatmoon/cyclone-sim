@@ -1,5 +1,7 @@
 About: A p5.js tropical cyclone simulation game
 
+v20190722e:
+    - Wild mode anomalies have been reduced to 15 now
 v20190722d:
     + Normal mode SST's at peak are now at 30 instead of 29
     + Hyper SST's at peak are higher, at 85 and 50 for tropics and polar, respectively
