@@ -1,5 +1,7 @@
 About: A p5.js tropical cyclone simulation game
 
+v20190722f:
+    - Wild mode anomalies have been reduced even further, back to 8 now, as 15 and 30 were too much
 v20190722e:
     - Wild mode anomalies have been reduced to 15 now
 v20190722d:
