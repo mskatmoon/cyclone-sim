@@ -556,7 +556,7 @@ Environment.init = function(basin){
             v = 1-abs(1-v);
             if(v===0) v = 0.000001;
             v = log(v);
-            let r = wild ? 8 : map(y,0,HEIGHT,6,3);
+            let r = wild ? 30 : map(y,0,HEIGHT,6,3);
             v = -r*v;
             v = v*i;
             if(wild && v>1.5) v += pow(1.4,v-1.5)-1;
